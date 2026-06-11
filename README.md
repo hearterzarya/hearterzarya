@@ -1,36 +1,36 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:8A2BE2&height=240&section=header&text=Gaurav%20Kumar%20Bhullan&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Edge%20AI%20%26%20IoT%20Developer&descAlignY=58&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&color=0:020617,35:1E1B4B,70:6D28D9,100:A855F7&text=HEARTERZARYA&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Builder%20%7C%20Product%20Engineer&descSize=18&descAlignY=58" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Engineer;AI%2FML+%26+Edge+AI+Builder;Product-Focused+Engineering+Mindset;Building+Scalable+Systems+for+Real-World+Impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=24&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=950&lines=Building+Modern+Web+Applications;Engineering+AI-Powered+Digital+Products;Full-Stack+Development+%7C+Automation+%7C+Cloud;Clean+Code.+Scalable+Systems.+Real+Impact." alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Software%20Engineering-0D1117?style=flat-square&logo=github&logoColor=A855F7&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/AI%2FML%20Engineering-0D1117?style=flat-square&logo=tensorflow&logoColor=A855F7&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Product%20Engineering-0D1117?style=flat-square&logo=vercel&logoColor=A855F7&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/India-0D1117?style=flat-square&logo=googlemaps&logoColor=A855F7&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Full--Stack%20Developer-020617?style=flat-square&logo=react&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/AI%2FML%20Builder-020617?style=flat-square&logo=openai&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/Product%20Engineer-020617?style=flat-square&logo=vercel&logoColor=A855F7" />
+<img src="https://img.shields.io/badge/India-020617?style=flat-square&logo=googlemaps&logoColor=A855F7" />
 
 <br/><br/>
 
-<a href="https://github.com/bookvedant2?tab=repositories">
+<a href="https://github.com/hearterzarya?tab=repositories">
   <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/bookvedant2/">
+<a href="https://www.linkedin.com/in/hearterzarya/">
   <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:bookvedant2@gmail.com">
+<a href="mailto:your-email@gmail.com">
   <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/bookvedant2">
+<a href="https://github.com/hearterzarya">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=bookvedant2&style=for-the-badge&color=7C3AED&label=Profile%20Views" />
-<img src="https://img.shields.io/github/followers/bookvedant2?style=for-the-badge&color=8B5CF6&labelColor=111827" />
-<img src="https://img.shields.io/github/stars/bookvedant2?affiliations=OWNER&style=for-the-badge&color=A855F7&labelColor=111827" />
+<img src="https://komarev.com/ghpvc/?username=hearterzarya&style=for-the-badge&color=7C3AED&label=Profile%20Views" />
+<img src="https://img.shields.io/github/followers/hearterzarya?style=for-the-badge&color=8B5CF6&labelColor=111827" />
+<img src="https://img.shields.io/github/stars/hearterzarya?affiliations=OWNER&style=for-the-badge&color=A855F7&labelColor=111827" />
 
 </div>
 
@@ -38,22 +38,20 @@
 
 ## About
 
-I am a software engineer and AI-focused product builder with a strong interest in full-stack development, applied machine learning, edge AI systems, automation, and scalable digital products.
+I am a full-stack developer and AI-focused product builder passionate about building modern web applications, automation tools, AI-powered workflows, and scalable digital products.
 
-My engineering work focuses on building practical, production-oriented systems that solve real-world problems — from AI-powered monitoring platforms and IoT-enabled automation to modern web applications, API gateways, dashboards, and intelligent tools.
-
-I enjoy working at the intersection of software engineering, AI/ML, product thinking, and deployment-ready architecture. My goal is to build clean, reliable, and user-focused systems that are technically strong, scalable, and meaningful in the real world.
+My work focuses on practical engineering — converting real-world problems into clean, usable, and production-ready software. I enjoy building fast interfaces, reliable backend systems, AI integrations, dashboards, APIs, and tools that create direct user value.
 
 <br/>
 
 <div align="center">
 
-| Open To                    | Details                                                |
-| -------------------------- | ------------------------------------------------------ |
-| Software Engineering Roles | Full-stack, backend, frontend, product engineering     |
-| AI / ML Projects           | Computer vision, edge AI, automation, LLM integrations |
-| Open Source Collaboration  | Developer tools, AI systems, SaaS utilities            |
-| Product Partnerships       | AI products, public-sector tech, automation platforms  |
+| Open To              | Details                                              |
+| -------------------- | ---------------------------------------------------- |
+| Software Engineering | Full-stack, frontend, backend, product engineering   |
+| AI / ML Projects     | AI tools, LLM workflows, computer vision, automation |
+| SaaS & Web Apps      | Dashboards, landing pages, APIs, business tools      |
+| Collaboration        | Open-source projects, client products, startup ideas |
 
 </div>
 
@@ -81,9 +79,9 @@ I enjoy working at the intersection of software engineering, AI/ML, product thin
 
 <br/><br/>
 
-### Cloud, DevOps & Tooling
+### Cloud, DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel,git,github,linux,nginx,arduino,raspberrypi" />
+<img src="https://skillicons.dev/icons?i=vercel,aws,docker,git,github,linux,nginx" />
 
 </div>
 
@@ -93,14 +91,14 @@ I enjoy working at the intersection of software engineering, AI/ML, product thin
 
 <div align="center">
 
-| Domain                 |  Proficiency | Details                                                                                 |
-| ---------------------- | -----------: | --------------------------------------------------------------------------------------- |
-| Computer Vision        |     Advanced | Object detection, image classification, surveillance workflows, camera-based monitoring |
-| Edge AI                |     Advanced | ESP32-CAM, Raspberry Pi, offline inference planning, low-power AI deployments           |
-| LLM Integrations       |     Advanced | API routing, AI gateways, prompt systems, model workflows, automation layers            |
-| Full-Stack AI Products |     Advanced | AI dashboards, user-facing tools, backend APIs, cloud deployment                        |
-| Data & Automation      | Intermediate | Event-driven workflows, alerts, logs, device telemetry, structured pipelines            |
-| IoT Systems            |     Advanced | Sensors, cameras, relays, GPS, GSM/4G, LoRa planning, embedded device integration       |
+| Domain                 |  Proficiency | Details                                                       |
+| ---------------------- | -----------: | ------------------------------------------------------------- |
+| AI Product Development |     Advanced | AI tools, automation flows, user-facing AI products           |
+| LLM Integrations       |     Advanced | API workflows, prompt systems, model-based automation         |
+| Full-Stack AI Apps     |     Advanced | AI dashboards, backend APIs, cloud deployment                 |
+| Computer Vision        | Intermediate | Detection workflows, image-based analysis, monitoring systems |
+| Automation Systems     |     Advanced | Workflow tools, business automation, productivity systems     |
+| Product Engineering    |     Advanced | Fast prototyping, UX-first development, scalable architecture |
 
 </div>
 
@@ -109,130 +107,104 @@ I enjoy working at the intersection of software engineering, AI/ML, product thin
 ## Featured Projects
 
 <details>
-<summary><b>Plight Innovation — Edge AI Wildlife Detection System</b></summary>
+<summary><b>Scrap Tool — Web Data Automation System</b></summary>
 
 <br/>
 
-AI-powered wildlife conflict prevention system designed for forest-fringe environments, combining camera-based detection, sensor verification, alert workflows, deterrence systems, and field-ready deployment planning.
+A JavaScript-based automation project focused on extracting, processing, and managing structured web data for practical use cases.
 
 <br/>
 
-| Category    | Details                                                                     |
-| ----------- | --------------------------------------------------------------------------- |
-| Stack       | Python, OpenCV, YOLO, ESP32-CAM, Raspberry Pi, Node.js, Android, Cloud APIs |
-| Scale       | Designed for pilot deployments and expandable to 1,000+ edge devices        |
-| Performance | Camera + PIR verification pipeline to reduce false positives                |
-| Security    | Device-level API routing, controlled media access, alert validation         |
-| Impact      | Supports human-wildlife conflict prevention with real-time alerts           |
-| Repository  | [View Projects](https://github.com/bookvedant2?tab=repositories)            |
+| Category    | Details                                                       |
+| ----------- | ------------------------------------------------------------- |
+| Stack       | JavaScript, Node.js, Web Automation                           |
+| Scale       | Built for reusable scraping and data workflows                |
+| Performance | Lightweight scripts and fast execution                        |
+| Security    | Controlled data access and structured processing              |
+| Impact      | Helps automate repetitive web data tasks                      |
+| Repository  | [View Repository](https://github.com/hearterzarya/scrap-tool) |
 
 <br/>
 
-This project focuses on practical AI deployment in real-world environments where connectivity, power, reliability, and detection accuracy are critical. The system is designed to support image capture, 20-second video recording, GPS-based alerts, siren/strobe deterrence, and mobile dashboard integration.
+This project focuses on turning repetitive manual browsing and data collection into an automated workflow that can be extended for business, research, and productivity use cases.
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>OpusX / Bifrost Gateway — Multi-Provider AI API Routing System</b></summary>
+<summary><b>Goshawk — Modern TypeScript Web Project</b></summary>
 
 <br/>
 
-A gateway-style AI infrastructure project focused on routing requests across LLM providers, improving model access workflows, deployment flexibility, and API-based usage from developer tools.
+A TypeScript-based project focused on clean frontend architecture, modern development patterns, and scalable user interface implementation.
 
 <br/>
 
-| Category    | Details                                                                             |
-| ----------- | ----------------------------------------------------------------------------------- |
-| Stack       | Node.js, Docker, Railway, Vercel, API Gateway, Environment Config                   |
-| Scale       | Built for hosted AI access and developer-side integration                           |
-| Performance | Optimized for fast request routing and deployment simplicity                        |
-| Security    | Environment-based configuration and provider isolation                              |
-| Impact      | Enables AI tooling access across desktop apps, code editors, and automation systems |
-| Repository  | [View Projects](https://github.com/bookvedant2?tab=repositories)                    |
+| Category    | Details                                                    |
+| ----------- | ---------------------------------------------------------- |
+| Stack       | TypeScript, Frontend Engineering                           |
+| Scale       | Designed for modular web development                       |
+| Performance | Clean structure with maintainable code                     |
+| Security    | Type-safe development workflow                             |
+| Impact      | Improves frontend reliability and maintainability          |
+| Repository  | [View Repository](https://github.com/hearterzarya/goshawk) |
 
 <br/>
 
-This system is designed around practical AI API deployment workflows, allowing developer tools and applications to connect with a hosted gateway layer. It emphasizes clean deployment, provider configuration, and flexible integration across coding environments.
+This project represents modern TypeScript-first engineering with emphasis on code quality, maintainability, and scalable UI development.
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>EMI Reminder & Finance Burden Reduction App</b></summary>
+<summary><b>AmitTool — Practical Developer Utility</b></summary>
 
 <br/>
 
-A productivity-focused finance reminder application concept that helps users track upcoming EMIs, mark payments as completed, and reduce mental load around recurring financial commitments.
+A TypeScript-based utility project designed to solve practical workflow needs with clean and reusable code.
 
 <br/>
 
-| Category    | Details                                                                    |
-| ----------- | -------------------------------------------------------------------------- |
-| Stack       | React Native, Node.js, PostgreSQL, Push Notifications, Calendar Scheduling |
-| Scale       | Designed for personal finance users with multiple recurring payments       |
-| Performance | Lightweight reminder-first workflow with minimal user friction             |
-| Security    | User-controlled EMI data and private payment records                       |
-| Impact      | Helps users stay organized and avoid missed payment stress                 |
-| Repository  | [View Projects](https://github.com/bookvedant2?tab=repositories)           |
+| Category    | Details                                                     |
+| ----------- | ----------------------------------------------------------- |
+| Stack       | TypeScript, Web Tooling                                     |
+| Scale       | Built for lightweight utility workflows                     |
+| Performance | Fast and minimal implementation                             |
+| Security    | Simple architecture with low complexity                     |
+| Impact      | Helps simplify repeated digital tasks                       |
+| Repository  | [View Repository](https://github.com/hearterzarya/amitTool) |
 
 <br/>
 
-The app focuses on simplicity, clarity, and habit-based reminders. It is designed for users who want a direct overview of upcoming payments, completed EMIs, and monthly financial responsibility without unnecessary complexity.
+The project focuses on utility-first development, making it easier to build simple tools that solve direct user problems without unnecessary complexity.
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>Promptsira — SEO-First Prompt Tools Website</b></summary>
+<summary><b>Plant — TypeScript Product Experiment</b></summary>
 
 <br/>
 
-A lightweight, no-login prompt utility website concept built for direct user value, search engine discoverability, and monetization through helpful AI-related tiny tools.
+A TypeScript project focused on experimenting with structured web development, product logic, and clean implementation patterns.
 
 <br/>
 
-| Category    | Details                                                               |
-| ----------- | --------------------------------------------------------------------- |
-| Stack       | Astro, TypeScript, Tailwind CSS, SEO, Static Content, Optional AI API |
-| Scale       | Built for fast indexing and high-intent search traffic                |
-| Performance | Static-first architecture with excellent page speed                   |
-| Security    | No-login design reduces user data risk                                |
-| Impact      | Helps users generate prompts and discover practical AI workflows      |
-| Repository  | [View Projects](https://github.com/bookvedant2?tab=repositories)      |
+| Category    | Details                                                  |
+| ----------- | -------------------------------------------------------- |
+| Stack       | TypeScript, Web Development                              |
+| Scale       | Product experiment and feature-focused development       |
+| Performance | Lightweight and maintainable structure                   |
+| Security    | Type-safe coding approach                                |
+| Impact      | Supports rapid experimentation and product learning      |
+| Repository  | [View Repository](https://github.com/hearterzarya/plant) |
 
 <br/>
 
-The project is designed around simple UX, fast loading, SEO-focused pages, and direct utility. It avoids unnecessary authentication and focuses on solving small, searchable user problems with clean web tools.
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>Smart Attendance & GPS Duty Tracking System</b></summary>
-
-<br/>
-
-A face-recognition attendance and duty monitoring concept designed for field teams, police workflows, and location-aware attendance verification.
-
-<br/>
-
-| Category    | Details                                                          |
-| ----------- | ---------------------------------------------------------------- |
-| Stack       | Computer Vision, Android, GPS, Cloud Dashboard, Face Recognition |
-| Scale       | Designed for organizational and field deployment                 |
-| Performance | Real-time attendance capture and location verification           |
-| Security    | Identity-based attendance with controlled access                 |
-| Impact      | Improves duty tracking, accountability, and field reporting      |
-| Repository  | [View Projects](https://github.com/bookvedant2?tab=repositories) |
-
-<br/>
-
-This project combines computer vision and GPS tracking to support attendance verification in real-world field environments. It is designed to provide practical visibility into attendance, movement, and duty status.
+This project is part of a practical engineering workflow focused on learning, experimentation, and building reusable frontend/product logic.
 
 </details>
 
@@ -240,43 +212,43 @@ This project combines computer vision and GPS tracking to support attendance ver
 
 ## Experience
 
-### Founder & Product Engineer — Plight Innovation
-
-`2025 — Present`
-
-Building AI-powered software, automation systems, edge AI products, and public-sector focused technology solutions.
-
-* Designed practical AI and IoT product concepts for real-world field deployment
-* Worked on edge AI monitoring, camera-based detection, alerts, and embedded hardware workflows
-* Built product architecture for web dashboards, Android apps, APIs, and cloud-connected devices
-* Focused on deployment-ready solutions for automation, wildlife monitoring, and public-sector use cases
-
-<br/>
-
-<img src="https://img.shields.io/badge/AI%20Products-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Edge%20AI-8B5CF6?style=flat-square" />
-<img src="https://img.shields.io/badge/IoT-4F46E5?style=flat-square" />
-<img src="https://img.shields.io/badge/Product%20Engineering-9333EA?style=flat-square" />
-
-<br/><br/>
-
-### Full-Stack Developer — Independent Projects & Client Work
+### Full-Stack Developer — Independent Projects
 
 `2024 — Present`
 
-Developing modern websites, dashboards, AI tools, APIs, automation systems, and digital product experiences.
+Building modern web applications, automation tools, AI-powered workflows, dashboards, APIs, and digital products.
 
-* Built responsive landing pages, SaaS-style interfaces, and business websites
-* Integrated backend APIs, authentication flows, databases, and deployment pipelines
-* Worked with AI APIs, prompt workflows, model gateways, and automation tooling
-* Delivered practical solutions for business, education, productivity, and developer workflows
+* Developed web projects using JavaScript, TypeScript, React, and modern frontend tooling
+* Built automation-focused tools for practical business and productivity workflows
+* Worked on AI-based product ideas, dashboards, and API-integrated systems
+* Focused on clean UI, fast execution, and scalable product thinking
 
 <br/>
 
 <img src="https://img.shields.io/badge/React-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Next.js-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Node.js-4F46E5?style=flat-square" />
-<img src="https://img.shields.io/badge/Cloud%20Deployment-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/TypeScript-4F46E5?style=flat-square" />
+<img src="https://img.shields.io/badge/Node.js-111827?style=flat-square" />
+<img src="https://img.shields.io/badge/Product%20Engineering-8B5CF6?style=flat-square" />
+
+<br/><br/>
+
+### AI & Automation Builder — Personal Products
+
+`2024 — Present`
+
+Designing and building practical AI-assisted workflows, developer tools, and software systems focused on automation and productivity.
+
+* Built concepts around AI tools, prompt workflows, and digital automation
+* Created utility-first projects to solve direct user and business problems
+* Explored SaaS-style workflows, API routing, and productivity systems
+* Focused on shipping useful products with simple and effective UX
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI%20Tools-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Automation-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/SaaS-4F46E5?style=flat-square" />
+<img src="https://img.shields.io/badge/APIs-111827?style=flat-square" />
 
 ---
 
@@ -284,13 +256,13 @@ Developing modern websites, dashboards, AI tools, APIs, automation systems, and 
 
 <div align="center">
 
-| Recognition                 | Details                                                                                     |
-| --------------------------- | ------------------------------------------------------------------------------------------- |
-| Edge AI Product Builder     | Designed AI-powered wildlife detection architecture for real-world forest-fringe deployment |
-| Full-Stack AI Developer     | Built and planned AI-integrated systems using modern web, backend, and cloud tools          |
-| Product Engineering Focus   | Converts practical problems into deployable software and hardware-enabled solutions         |
-| Public-Sector Tech Interest | Focused on AI, IoT, and automation products for high-impact operational use cases           |
-| Automation & API Systems    | Designed workflows around AI gateways, API routing, and developer productivity tools        |
+| Recognition               | Details                                                                      |
+| ------------------------- | ---------------------------------------------------------------------------- |
+| Full-Stack Builder        | Built multiple public repositories using JavaScript and TypeScript           |
+| Product-Focused Developer | Focused on practical tools, automation, and user-first software              |
+| AI Workflow Explorer      | Works with AI tools, prompt systems, automation, and API-based products      |
+| Modern Web Developer      | Builds responsive and scalable web projects using current tooling            |
+| Consistent Learner        | Actively improving through projects, experiments, and real-world development |
 
 </div>
 
@@ -300,31 +272,17 @@ Developing modern websites, dashboards, AI tools, APIs, automation systems, and 
 
 <div align="center">
 
-### AWS
+### Cloud & Development
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-Cloud%20Architecture-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-<br/><br/>
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-Java%20Foundations-8B5CF6?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloud%20Computing-Learning-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Full--Stack%20Development-Practicing-4F46E5?style=for-the-badge&logo=react&logoColor=white" />
 
 <br/><br/>
 
-### NPTEL
+### AI & Automation
 
-<img src="https://img.shields.io/badge/NPTEL-Programming-4F46E5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NPTEL-Machine%20Learning-7C3AED?style=for-the-badge" />
-
-<br/><br/>
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-111827?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Tools-Exploring-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Automation%20Workflows-Building-111827?style=for-the-badge&logo=githubactions&logoColor=white" />
 
 </div>
 
@@ -334,16 +292,16 @@ Developing modern websites, dashboards, AI tools, APIs, automation systems, and 
 
 <div align="center">
 
-<a href="https://leetcode.com/bookvedant2/">
+<a href="https://leetcode.com/hearterzarya/">
   <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
-<a href="https://auth.geeksforgeeks.org/user/bookvedant2">
+<a href="https://auth.geeksforgeeks.org/user/hearterzarya">
   <img src="https://img.shields.io/badge/GeeksforGeeks-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
 </a>
-<a href="https://www.hackerrank.com/bookvedant2">
+<a href="https://www.hackerrank.com/hearterzarya">
   <img src="https://img.shields.io/badge/HackerRank-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
 </a>
-<a href="https://www.codechef.com/users/bookvedant2">
+<a href="https://www.codechef.com/users/hearterzarya">
   <img src="https://img.shields.io/badge/CodeChef-111827?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
@@ -355,12 +313,12 @@ Developing modern websites, dashboards, AI tools, APIs, automation systems, and 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bookvedant2&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=E5E7EB" />
-<img width="49%" src="https://streak-stats.demolab.com?user=bookvedant2&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hearterzarya&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=020617&title_color=A855F7&icon_color=8B5CF6&text_color=E5E7EB" />
+<img width="49%" src="https://streak-stats.demolab.com?user=hearterzarya&theme=midnight-purple&hide_border=true&background=020617&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7" />
 
 <br/><br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bookvedant2&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E5E7EB" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hearterzarya&layout=compact&theme=midnight-purple&hide_border=true&bg_color=020617&title_color=A855F7&text_color=E5E7EB" />
 
 </div>
 
@@ -370,7 +328,7 @@ Developing modern websites, dashboards, AI tools, APIs, automation systems, and 
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=bookvedant2&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=hearterzarya&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" />
 
 </div>
 
@@ -380,17 +338,7 @@ Developing modern websites, dashboards, AI tools, APIs, automation systems, and 
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bookvedant2&bg_color=0D1117&color=A855F7&line=7C3AED&point=E0E7FF&area=true&hide_border=true" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/bookvedant2/bookvedant2/output/snake.svg" alt="Snake animation" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hearterzarya&bg_color=020617&color=A855F7&line=7C3AED&point=E0E7FF&area=true&hide_border=true" />
 
 </div>
 
@@ -400,28 +348,28 @@ Developing modern websites, dashboards, AI tools, APIs, automation systems, and 
 
 ```yaml
 Learning:
-  - Advanced software architecture
-  - Computer vision deployment
-  - Edge AI optimization
-  - Cloud-native backend systems
+  - Advanced JavaScript
+  - TypeScript architecture
+  - Full-stack development
+  - AI-powered applications
 
 Building:
-  - AI-powered monitoring systems
-  - Full-stack SaaS products
-  - Developer-focused AI tools
-  - IoT and embedded automation products
+  - Modern web applications
+  - Automation tools
+  - AI workflow products
+  - Developer utilities
 
 Exploring:
-  - LLM gateways
-  - Offline AI inference
-  - Public-sector automation
-  - Scalable product engineering
+  - SaaS products
+  - API integrations
+  - Cloud deployment
+  - Product engineering
 
 Open To:
   - Software engineering roles
-  - AI and ML projects
-  - Open source collaboration
-  - Product engineering opportunities
+  - Freelance projects
+  - AI and automation work
+  - Open-source collaboration
 ```
 
 ---
@@ -430,16 +378,16 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:bookvedant2@gmail.com">
+<a href="mailto:your-email@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/bookvedant2/">
+<a href="https://www.linkedin.com/in/hearterzarya/">
   <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/bookvedant2">
+<a href="https://github.com/hearterzarya">
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://github.com/bookvedant2?tab=repositories">
+<a href="https://github.com/hearterzarya?tab=repositories">
   <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -449,10 +397,10 @@ Open To:
 
 <div align="center">
 
-<b>Engineering practical AI systems that move from idea to real-world impact.</b>
+<b>Building clean software, practical AI tools, and scalable digital products.</b>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:302B63,100:0F0C29&height=140&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:A855F7,50:312E81,100:020617" />
 
 </div>
